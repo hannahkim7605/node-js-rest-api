@@ -8,7 +8,7 @@ npm install express --save
 
 ## Deployment
 ```
-git clone
+git clone git@github.com:hannahkim7605/node-js-rest-api.git
 cd node-js-rest-api
 npm start
 ```
